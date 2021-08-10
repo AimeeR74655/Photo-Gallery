@@ -1,0 +1,21 @@
+img {
+	width: 700px;
+	height: 650px;
+}
+
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
+
+#home_img {
+	width: 100%;
+	height: auto;
+}
+
+#slide_img {
+	width: 100%;
+	height: auto;
+}
